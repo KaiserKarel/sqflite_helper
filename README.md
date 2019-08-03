@@ -13,7 +13,7 @@ import 'package:sqflite/sqflite.dart';
 Database db = openMigratedDatabase("path/to/db.db", 
   [
     """CREATE TABLE mytable (name varchar);""",
-    """ALTER TABLE mytable RENAME TO users',
+    """ALTER TABLE mytable RENAME TO users;""",
   ]
 );
 ```
