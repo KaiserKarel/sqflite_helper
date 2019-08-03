@@ -1,6 +1,6 @@
 name: sqflite_helper
 description: A small library containing helpers to manage sqflite in flutter apps.
-version: 0.1.0
+version: 0.1.1
 author: kaiserkarel<k.l.kubat@gmail.com>
 homepage: https://github.com/KaiserKarel/sqflite_helper
 
