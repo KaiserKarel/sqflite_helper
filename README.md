@@ -1,4 +1,4 @@
-# sqflite-migration
+# sqflite_helper
 A small library to properly open a sqflite DB and handle the migrations.
 
 Features:
@@ -7,7 +7,7 @@ Features:
 
 ## Example usage
 ```dart
-import 'package:sqflite-migration/open.dart';
+import 'package:sqflite_helper/sqflite_helper.dart';
 import 'package:sqflite/sqflite.dart';
 
 Database db = openMigratedDatabase("path/to/db.db", 

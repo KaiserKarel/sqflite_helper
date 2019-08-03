@@ -1,8 +1,8 @@
-name: sqflite_migration
-description: A small library to manage sqlite migrations in flutter apps.
+name: sqflite_helper
+description: A small library container helpers to manage sqlite in flutter apps.
 version: 0.1.0
 author: kaiserkarel<k.l.kubat@gmail.com>
-homepage: https://github.com/KaiserKarel/sqflite-migration
+homepage: https://github.com/KaiserKarel/sqflite_helper
 
 dependencies:
   flutter:
